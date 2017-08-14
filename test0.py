@@ -4,6 +4,13 @@ import numpy as np
 
 def mystrings():
     web1="https://www.semanticscholar.org/"
+    '''
+    人脸资源
+https://github.com/betars/Face-Resources
+
+DeepFace
+https://github.com/RiweiChen/DeepFace/tree/master/FaceDataset
+    '''
     pass
 
 def test():
